@@ -1,0 +1,36 @@
+body{
+    background-color: #393E46;
+}
+
+h1{
+    margin: 30px;
+    font-size: 9rem;
+    text-align: center;
+    color: aliceblue;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    color: aliceblue;
+    margin: 0 10%;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10%;
+    color: aliceblue;
+}
+
+img{
+    width : 80%;
+}
